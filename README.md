@@ -4,6 +4,7 @@ Random (maybe dystopian) ideas no one asked for:
 1. Call an Uber but for fixing merge conflicts
 2. Adrenaline bank to take loans during hackathons
 3. ratemyprofessor but for roommates
+4. Legs that fold into the phone case, so that when you call your device it starts walking towards you
 
 Feel free to check out my repositories. If there's anything you're looking for, [e-mail](mailto:dldeshmu@usc.edu) me and we can talk!
 
