@@ -5,6 +5,9 @@ Random (maybe dystopian) ideas no one asked for:
 2. Adrenaline bank to take loans during hackathons
 3. ratemyprofessor but for roommates
 4. Legs that fold into the phone case, so that when you call your device it starts walking towards you
+5. An alarm clock that sends you on random side quests physically around the house, to get you out of bed
+7. A pressure cooker that shows on a display screen if the food is cooked, how long the steam is going to blow for, and when the pressure will be gone
+8. Cow shoulder hump for humans so we can meal prep, eat it, store it in the hump, and save refrigerator bill
 
 Feel free to check out my repositories. If there's anything you're looking for, [e-mail](mailto:dldeshmu@usc.edu) me and we can talk!
 
