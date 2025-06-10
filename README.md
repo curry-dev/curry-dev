@@ -8,7 +8,6 @@ Random (maybe dystopian) ideas no one asked for:
 5. A pressure cooker that shows on a display screen if the food is cooked, how long the steam is going to blow for, and when the pressure will be gone
 6. Cow shoulder hump for humans so we can meal prep, eat it, store it in the hump, and save refrigerator bill
 7. Bluetooth charging for all devices in an ecosystem
-8. Realtime language translation over instagram live
 
 Feel free to check out my repositories. If there's anything you're looking for, [e-mail](mailto:dldeshmu@usc.edu) me and we can talk!
 
